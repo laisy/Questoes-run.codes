@@ -1,0 +1,3 @@
+Dado uma string com uma frase informada pelo usuário (incluindo espaços em branco), conte quantos espaços em brancos e quantas vogais tem na frase.
+
+ps. Vogais maiúsculas também contam. ps². Y não conta como vogal.

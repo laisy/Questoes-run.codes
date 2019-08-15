@@ -1,0 +1,3 @@
+Uma sentença é dita 'dançante' se sua primeira letra é maiúscula e cada letra subsequente é o oposto da letra anterior. Espaços devem ser ignorados. Por exemplo, "A b Cd" é uma sentença dançante porquê a primeira letra (A) é maiúscula, a próxima é minúscula (b) e as próximas continuam a sequência (maiúscula e minúscula). Faça um programa que receba uma String e à transforme em uma sentença dançante, mudando as letras onde é necessário. Todos os espaços na sentença original devem ser preservados, i.e, "sentence " deve ser convertida em "SeNtEnCe ".
+
+

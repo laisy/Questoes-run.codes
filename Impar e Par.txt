@@ -1,0 +1,1 @@
+Faça um Programa que leia 10 números inteiros e armazene-os em uma lista. Armazene os números pares no vetor PAR e os números IMPARES no vetor impar. Imprima os três vetores.

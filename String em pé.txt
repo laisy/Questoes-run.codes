@@ -1,0 +1,1 @@
+Faça um programa que solicite uma string do usuário e imprima-a na vertical.

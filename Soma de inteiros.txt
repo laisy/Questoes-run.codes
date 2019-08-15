@@ -1,0 +1,1 @@
+Faça um programa que receba números inteiro até que o 0 seja digitado, e depois exiba a soma desses números.

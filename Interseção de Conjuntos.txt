@@ -1,0 +1,1 @@
+Crie um programa que permita contar o número de elementos em comum entre 2 listas dadas como parâmetro. Exemplo: L1=[1,2,3,4,5] e L2=[2,4] tem 2 elementos em comum.

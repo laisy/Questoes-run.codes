@@ -1,0 +1,5 @@
+Implemente um programa que recebe duas strings e deve combiná-las, alternando as letras de cada string, começando com a primeira letra da primeira string, seguido pela primeira letra da segunda string, em seguida pela segunda letra da primeira string, e assim sucessivamente. As letras restantes da String mais longa devem ser adicionadas ao fim da string resultante e retornada.
+
+ps. Se o nível estiver muito alto, avisem que adiarei uma semana da entrega, já que vocês não tem apenas essa cadeira para estudar, mas vocês já tem todos os recursos para fazer esta questão, só quebrar bem a cabeça. :)
+
+

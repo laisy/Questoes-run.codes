@@ -1,0 +1,3 @@
+Faça um programa que receberá como entrada uma string e mostra o conteúdo dessa string sem espaços e o tamanho da nova String.
+
+ps. -1 pra quem retornar o tamanho simplesmente printando a "len()" ou atribuindo a "len()" à uma variável e printando a mesma. ps². baixem o caso teste para entender melhor a entrada e saída.

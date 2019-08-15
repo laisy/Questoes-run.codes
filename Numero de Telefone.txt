@@ -1,0 +1,6 @@
+Na pacata vila UAG, todos os telefones têm 6 dígitos. A companhia telefônica estabelece as seguintes regras sobre os números:
+
+Não pode haver dois dígitos consecutivos idênticos, porque isso é chato;
+A soma dos dígitos tem que ser par, porque isso é legal;
+O último dígito não pode ser igual ao primeiro, porque isso dá azar.
+Então, dadas essas regras perfeitamente razoáveis, bem projetadas e maduras, faça um programa que receba uma string com os 6 números e diga se ele é válido ou não.

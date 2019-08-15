@@ -1,0 +1,3 @@
+Escreva um programa para calcular a redução do tempo de vida de um fumante. Considere que um fumante perde 20 minutos de vida a cada cigarro, calcule quantos dias de vida um fumante perderá. Exiba o total em dias (com duas casas decimais). A primeira linha da entrada será a quantidade de cigarros que ele fuma por dia, e a segunda entrada é a quantos meses ele fuma. (Considere todos os meses com 30 dias)
+
+ps. Quem é fumante vai parar hein
